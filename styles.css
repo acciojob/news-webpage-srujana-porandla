@@ -8,6 +8,14 @@ body{
 	color:white;
 	text-align:center;
 }
+.latest-news-section{
+	background-color:white;
+	padding:0;
+	width:200px;
+}
 .main{
+	background-color:white;
+}
+.pictorial-news-section{
 	background-color:white;
 }
